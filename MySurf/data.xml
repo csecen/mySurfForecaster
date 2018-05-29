@@ -5,7 +5,7 @@
       <title>NOAA's National Weather Service Forecast Data</title>
       <field>meteorological</field>
       <category>forecast</category>
-      <creation-date refresh-frequency="PT1H">2018-04-09T17:20:02Z</creation-date>
+      <creation-date refresh-frequency="PT1H">2018-05-29T20:21:50Z</creation-date>
     </product>
     <source>
       <more-information>https://graphical.weather.gov/xml/</more-information>
@@ -24,338 +24,340 @@
     <moreWeatherInformation applicable-location="point1">https://forecast-v3.weather.gov/point/41.28,-70.10</moreWeatherInformation>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p24h-n7-1</layout-key>
-      <start-valid-time>2018-04-09T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-09T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-10T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-10T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-11T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-11T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-12T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-12T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-13T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-13T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-14T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-14T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-15T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-15T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-29T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-29T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-30T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-30T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-31T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-31T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-01T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-01T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-02T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-02T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-03T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-03T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-04T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-04T20:00:00-04:00</end-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p24h-n6-2</layout-key>
-      <start-valid-time>2018-04-09T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-10T09:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-10T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-11T09:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-11T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-12T09:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-12T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-13T09:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-13T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-14T09:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-14T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-15T09:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-29T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-30T09:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-30T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-31T09:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-31T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-01T09:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-01T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-02T09:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-02T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-03T09:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-03T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-04T09:00:00-04:00</end-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
       <layout-key>k-p12h-n13-3</layout-key>
-      <start-valid-time>2018-04-09T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-09T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-09T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-10T08:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-10T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-10T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-10T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-11T08:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-11T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-11T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-11T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-12T08:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-12T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-12T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-12T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-13T08:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-13T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-13T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-13T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-14T08:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-14T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-14T20:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-14T20:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-15T08:00:00-04:00</end-valid-time>
-      <start-valid-time>2018-04-15T08:00:00-04:00</start-valid-time>
-      <end-valid-time>2018-04-15T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-29T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-29T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-29T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-30T08:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-30T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-30T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-30T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-31T08:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-31T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-05-31T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-05-31T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-01T08:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-01T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-01T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-01T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-02T08:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-02T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-02T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-02T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-03T08:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-03T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-03T20:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-03T20:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-04T08:00:00-04:00</end-valid-time>
+      <start-valid-time>2018-06-04T08:00:00-04:00</start-valid-time>
+      <end-valid-time>2018-06-04T20:00:00-04:00</end-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
-      <layout-key>k-p3h-n35-4</layout-key>
-      <start-valid-time>2018-04-09T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T17:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T23:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T05:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T11:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T17:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T23:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T05:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T11:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T17:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-15T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-15T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-15T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-15T20:00:00-04:00</start-valid-time>
+      <layout-key>k-p3h-n34-4</layout-key>
+      <start-valid-time>2018-05-29T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-29T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-29T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-04T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-04T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-04T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-04T20:00:00-04:00</start-valid-time>
     </time-layout>
     <time-layout time-coordinate="local" summarization="none">
-      <layout-key>k-p3h-n33-5</layout-key>
-      <start-valid-time>2018-04-09T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T11:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T17:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-09T23:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T05:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T11:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T17:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-10T23:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T05:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T11:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T17:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-11T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-12T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-13T20:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T02:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T08:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T14:00:00-04:00</start-valid-time>
-      <start-valid-time>2018-04-14T20:00:00-04:00</start-valid-time>
+      <layout-key>k-p3h-n30-5</layout-key>
+      <start-valid-time>2018-05-29T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-29T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-29T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-30T23:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T05:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T11:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T17:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-05-31T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-01T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-02T20:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T02:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T08:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T14:00:00-04:00</start-valid-time>
+      <start-valid-time>2018-06-03T20:00:00-04:00</start-valid-time>
     </time-layout>
     <parameters applicable-location="point1">
       <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n7-1">
         <name>Daily Maximum Temperature</name>
-        <value>40</value>
-        <value>43</value>
-        <value>45</value>
-        <value>49</value>
-        <value>51</value>
-        <value>50</value>
-        <value>51</value>
+        <value>65</value>
+        <value>61</value>
+        <value>62</value>
+        <value>64</value>
+        <value>64</value>
+        <value>59</value>
+        <value>58</value>
       </temperature>
       <temperature type="minimum" units="Fahrenheit" time-layout="k-p24h-n6-2">
         <name>Daily Minimum Temperature</name>
-        <value>37</value>
-        <value>36</value>
-        <value>39</value>
-        <value>43</value>
-        <value>43</value>
-        <value>43</value>
+        <value>53</value>
+        <value>51</value>
+        <value>56</value>
+        <value>57</value>
+        <value>54</value>
+        <value>52</value>
       </temperature>
-      <temperature type="apparent" units="Fahrenheit" time-layout="k-p3h-n35-4">
+      <temperature type="apparent" units="Fahrenheit" time-layout="k-p3h-n34-4">
         <name>Apparent Temperature</name>
-        <value>31</value>
-        <value>37</value>
-        <value>39</value>
-        <value>36</value>
-        <value>34</value>
-        <value>36</value>
-        <value>38</value>
-        <value>37</value>
-        <value>37</value>
-        <value>36</value>
-        <value>34</value>
-        <value>33</value>
-        <value>32</value>
-        <value>32</value>
-        <value>34</value>
-        <value>37</value>
-        <value>39</value>
-        <value>37</value>
-        <value>36</value>
-        <value>36</value>
-        <value>38</value>
-        <value>48</value>
-        <value>36</value>
-        <value>46</value>
-        <value>46</value>
-        <value>49</value>
-        <value>39</value>
-        <value>38</value>
-        <value>46</value>
-        <value>48</value>
-        <value>39</value>
-        <value>39</value>
-        <value>46</value>
-        <value>49</value>
-        <value>46</value>
+        <value>63</value>
+        <value>58</value>
+        <value>57</value>
+        <value>56</value>
+        <value>54</value>
+        <value>57</value>
+        <value>59</value>
+        <value>60</value>
+        <value>60</value>
+        <value>57</value>
+        <value>54</value>
+        <value>53</value>
+        <value>52</value>
+        <value>54</value>
+        <value>59</value>
+        <value>61</value>
+        <value>61</value>
+        <value>60</value>
+        <value>57</value>
+        <value>59</value>
+        <value>63</value>
+        <value>61</value>
+        <value>58</value>
+        <value>59</value>
+        <value>64</value>
+        <value>60</value>
+        <value>56</value>
+        <value>56</value>
+        <value>59</value>
+        <value>56</value>
+        <value>53</value>
+        <value>54</value>
+        <value>58</value>
+        <value>56</value>
       </temperature>
       <probability-of-precipitation type="12 hour" units="percent" time-layout="k-p12h-n13-3">
         <name>12 Hourly Probability of Precipitation</name>
-        <value>0</value>
-        <value>8</value>
-        <value>54</value>
-        <value>29</value>
         <value>3</value>
-        <value>8</value>
-        <value>29</value>
-        <value>29</value>
-        <value>8</value>
+        <value>5</value>
+        <value>1</value>
         <value>4</value>
-        <value>11</value>
-        <value>43</value>
-        <value>53</value>
+        <value>9</value>
+        <value>18</value>
+        <value>19</value>
+        <value>41</value>
+        <value>41</value>
+        <value>32</value>
+        <value>31</value>
+        <value>25</value>
+        <value>13</value>
       </probability-of-precipitation>
-      <wind-speed type="sustained" units="knots" time-layout="k-p3h-n35-4">
+      <wind-speed type="sustained" units="knots" time-layout="k-p3h-n34-4">
         <name>Wind Speed</name>
-        <value>12</value>
-        <value>3</value>
+        <value>5</value>
         <value>2</value>
+        <value>1</value>
         <value>3</value>
-        <value>4</value>
-        <value>3</value>
-        <value>4</value>
-        <value>7</value>
-        <value>7</value>
-        <value>7</value>
         <value>6</value>
         <value>7</value>
-        <value>7</value>
+        <value>9</value>
         <value>8</value>
-        <value>8</value>
-        <value>7</value>
+        <value>6</value>
+        <value>6</value>
         <value>5</value>
-        <value>7</value>
-        <value>7</value>
+        <value>5</value>
+        <value>5</value>
+        <value>6</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
         <value>10</value>
         <value>9</value>
-        <value>15</value>
-        <value>20</value>
-        <value>21</value>
-        <value>12</value>
+        <value>8</value>
+        <value>8</value>
+        <value>8</value>
+        <value>9</value>
         <value>11</value>
-        <value>12</value>
-        <value>14</value>
+        <value>16</value>
+        <value>18</value>
+        <value>16</value>
         <value>13</value>
-        <value>13</value>
-        <value>10</value>
-        <value>11</value>
-        <value>12</value>
-        <value>13</value>
-        <value>14</value>
+        <value>18</value>
+        <value>19</value>
+        <value>18</value>
       </wind-speed>
-      <direction type="wind" units="degrees true" time-layout="k-p3h-n35-4">
+      <direction type="wind" units="degrees true" time-layout="k-p3h-n34-4">
         <name>Wind Direction</name>
-        <value>280</value>
-        <value>290</value>
-        <value>180</value>
-        <value>140</value>
-        <value>130</value>
-        <value>180</value>
-        <value>150</value>
-        <value>140</value>
-        <value>130</value>
-        <value>120</value>
-        <value>80</value>
-        <value>40</value>
-        <value>10</value>
-        <value>10</value>
-        <value>0</value>
-        <value>0</value>
-        <value>320</value>
-        <value>250</value>
-        <value>230</value>
-        <value>240</value>
-        <value>240</value>
-        <value>210</value>
-        <value>210</value>
-        <value>240</value>
-        <value>270</value>
         <value>230</value>
         <value>210</value>
-        <value>220</value>
-        <value>230</value>
-        <value>220</value>
-        <value>190</value>
-        <value>190</value>
-        <value>160</value>
-        <value>160</value>
-        <value>160</value>
-      </direction>
-      <humidity type="relative" units="percent" time-layout="k-p3h-n35-4">
-        <name>Relative Humidity</name>
-        <value>42</value>
-        <value>50</value>
-        <value>59</value>
-        <value>64</value>
-        <value>65</value>
-        <value>67</value>
-        <value>65</value>
-        <value>62</value>
-        <value>68</value>
-        <value>75</value>
-        <value>86</value>
-        <value>82</value>
-        <value>89</value>
-        <value>82</value>
-        <value>82</value>
+        <value>200</value>
+        <value>60</value>
         <value>70</value>
-        <value>71</value>
-        <value>73</value>
-        <value>76</value>
-        <value>79</value>
-        <value>76</value>
-        <value>71</value>
-        <value>83</value>
         <value>80</value>
-        <value>79</value>
-        <value>71</value>
-        <value>86</value>
-        <value>86</value>
-        <value>83</value>
-        <value>77</value>
         <value>90</value>
+        <value>90</value>
+        <value>110</value>
+        <value>130</value>
+        <value>150</value>
+        <value>160</value>
+        <value>160</value>
+        <value>160</value>
+        <value>170</value>
+        <value>170</value>
+        <value>180</value>
+        <value>170</value>
+        <value>180</value>
+        <value>170</value>
+        <value>170</value>
+        <value>170</value>
+        <value>160</value>
+        <value>150</value>
+        <value>110</value>
+        <value>70</value>
+        <value>60</value>
+        <value>60</value>
+        <value>60</value>
+        <value>60</value>
+        <value>70</value>
+        <value>70</value>
+        <value>60</value>
+        <value>60</value>
+      </direction>
+      <humidity type="relative" units="percent" time-layout="k-p3h-n34-4">
+        <name>Relative Humidity</name>
+        <value>80</value>
+        <value>93</value>
+        <value>90</value>
+        <value>93</value>
+        <value>93</value>
+        <value>83</value>
+        <value>69</value>
+        <value>67</value>
+        <value>67</value>
+        <value>75</value>
+        <value>80</value>
+        <value>86</value>
         <value>89</value>
+        <value>93</value>
+        <value>75</value>
+        <value>75</value>
+        <value>78</value>
+        <value>81</value>
+        <value>93</value>
         <value>89</value>
-        <value>82</value>
+        <value>83</value>
+        <value>90</value>
         <value>96</value>
+        <value>96</value>
+        <value>81</value>
+        <value>87</value>
+        <value>93</value>
+        <value>89</value>
+        <value>78</value>
+        <value>83</value>
+        <value>96</value>
+        <value>90</value>
+        <value>78</value>
+        <value>80</value>
       </humidity>
-      <water-state time-layout="k-p3h-n33-5">
+      <water-state time-layout="k-p3h-n30-5">
         <waves type="significant" units="feet">
           <name>Wave Height</name>
           <value>2</value>
+          <value>2</value>
           <value>1</value>
+          <value>0</value>
+          <value>0</value>
+          <value>0</value>
+          <value>2</value>
+          <value>2</value>
+          <value>0</value>
           <value>1</value>
-          <value>1</value>
-          <value>1</value>
-          <value>1</value>
-          <value>1</value>
-          <value>1</value>
+          <value>2</value>
+          <value>2</value>
+          <value>2</value>
+          <value>2</value>
+          <value>2</value>
+          <value>2</value>
+          <value>2</value>
+          <value>2</value>
           <value>1</value>
           <value>1</value>
           <value>1</value>
@@ -364,22 +366,9 @@
           <value>1</value>
           <value>1</value>
           <value>2</value>
-          <value>2</value>
-          <value>2</value>
-          <value>2</value>
-          <value>2</value>
-          <value>1</value>
-          <value>2</value>
-          <value>2</value>
-          <value>2</value>
-          <value>3</value>
           <value>4</value>
-          <value>3</value>
-          <value>2</value>
-          <value>2</value>
-          <value>3</value>
-          <value>4</value>
-          <value>4</value>
+          <value>5</value>
+          <value>5</value>
           <value>4</value>
         </waves>
       </water-state>
